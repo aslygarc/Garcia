@@ -1,36 +1,104 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=✨+Asly+García+✨;💻+Desarrollo+de+Software;🌸+Diseño+%7C+Programación+%7C+Creatividad;🚀+Siempre+Aprendiendo+Nuevas+Tecnologías" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=✨+Asly+García+✨;💻+Desarrollo+de+Software;🌸+Frontend+%7C+Backend+%7C+Bases+de+Datos;🚀+Aprendiendo+Nuevas+Tecnologías" />
+
+<img src="https://i.pinimg.com/originals/5f/9d/45/5f9d45b0dbd0d6f8c8e4f62f9cbbf0f4.gif" width="250"/>
 
 ---
 
-# 💖 Perfil
+# 🌸 Sobre Mí
 
-💻 Estudiante de Desarrollo de Software  
-🌸 Interesada en programación, diseño web y bases de datos  
-🚀 En constante aprendizaje de nuevas tecnologías y herramientas digitales  
+💻 Estudiante de **Desarrollo de Software**  
+🎨 Apasionada por el diseño web y la programación  
+🗄️ Interesada en bases de datos y desarrollo frontend  
+🚀 Siempre aprendiendo nuevas tecnologías  
+💖 Creatividad + Tecnología = Mi mundo  
 
 ---
 
 # 💻 Tecnologías y Aplicaciones
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,github,vscode" />
-</p>
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" /><br>
+HTML
+</a>
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" /><br>
+CSS
+</a>
+</td>
+
+<td align="center">
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" /><br>
+JavaScript
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" /><br>
+Python
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+MySQL
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" /><br>
+GitHub
+</a>
+</td>
+
+<td align="center">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" /><br>
+VS Code
+</a>
+</td>
+
+<td align="center">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" /><br>
+Git
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
+
+# 📚 Información Sobre Las Plataformas
 
 ## 🌐 HTML
 Lenguaje utilizado para crear la estructura de páginas web y organizar contenido digital.
 
 ## 🎨 CSS
-Herramienta enfocada en el diseño visual, estilos, colores y animaciones para sitios web.
+Herramienta enfocada en estilos, colores, diseños responsivos y animaciones.
 
 ## ⚡ JavaScript
 Lenguaje que permite agregar interactividad y funciones dinámicas a aplicaciones web.
 
 ## 🐍 Python
-Lenguaje de programación utilizado para lógica, automatización y desarrollo de proyectos.
+Lenguaje versátil utilizado para automatización, lógica y desarrollo de software.
 
 ## 🗄️ MySQL
 Sistema de gestión de bases de datos para almacenar y administrar información.
@@ -39,28 +107,58 @@ Sistema de gestión de bases de datos para almacenar y administrar información.
 Plataforma utilizada para alojar proyectos y llevar control de versiones.
 
 ## 💜 Visual Studio Code
-Editor de código utilizado para desarrollar proyectos de programación de forma organizada.
+Editor de código moderno utilizado para desarrollar proyectos de programación.
+
+## 🔥 Git
+Herramienta de control de versiones utilizada para administrar cambios en proyectos.
 
 ---
 
-# 📊 Estadísticas
+# 📊 Estadísticas GitHub
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Racha de Contribuciones
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Conecta Conmigo
+
+<p align="center">
+
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # ✨ Objetivos
 
-🌸 Seguir aprendiendo programación  
-💻 Mejorar habilidades en desarrollo web  
-🚀 Crear proyectos creativos y funcionales  
-💖 Continuar creciendo profesionalmente  
+🌸 Mejorar mis habilidades en desarrollo web  
+💻 Crear proyectos modernos y funcionales  
+🚀 Aprender nuevas tecnologías constantemente  
+💖 Crecer profesionalmente en el mundo del software  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer"/>
 
 </div>
