@@ -8,15 +8,15 @@
 
 # 🌸 Sobre Mí
 
-💻 Estudiante de **Desarrollo de Software**  
-🎨 Apasionada por el diseño web y la programación  
-🗄️ Interesada en bases de datos y desarrollo frontend  
-🚀 Siempre aprendiendo nuevas tecnologías  
-💖 Creatividad + Tecnología = Mi mundo  
+ Estudiante de **Desarrollo de Software**  
+ Apasionada por el diseño web y la programación  
+ Interesada en bases de datos y desarrollo frontend  
+ Siempre aprendiendo nuevas tecnologías  
+ Creatividad + Tecnología = Mi mundo  
 
 ---
 
-# 💻 Tecnologías y Aplicaciones
+#  Tecnologías y Aplicaciones
 
 <table align="center">
 <tr>
@@ -86,35 +86,35 @@ Git
 
 ---
 
-# 📚 Información Sobre Las Plataformas
+#  Información Sobre Las Plataformas
 
-## 🌐 HTML
+##  HTML
 Lenguaje utilizado para crear la estructura de páginas web y organizar contenido digital.
 
-## 🎨 CSS
+##  CSS
 Herramienta enfocada en estilos, colores, diseños responsivos y animaciones.
 
-## ⚡ JavaScript
+# JavaScript
 Lenguaje que permite agregar interactividad y funciones dinámicas a aplicaciones web.
 
-## 🐍 Python
+## Python
 Lenguaje versátil utilizado para automatización, lógica y desarrollo de software.
 
-## 🗄️ MySQL
+##  MySQL
 Sistema de gestión de bases de datos para almacenar y administrar información.
 
-## 🌸 GitHub
+##  GitHub
 Plataforma utilizada para alojar proyectos y llevar control de versiones.
 
-## 💜 Visual Studio Code
+##  Visual Studio Code
 Editor de código moderno utilizado para desarrollar proyectos de programación.
 
-## 🔥 Git
+## Git
 Herramienta de control de versiones utilizada para administrar cambios en proyectos.
 
 ---
 
-# 📊 Estadísticas GitHub
+#  Estadísticas GitHub
 
 <p align="center">
 
@@ -126,7 +126,7 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 
 ---
 
-# 🔥 Racha de Contribuciones
+#  Racha de Contribuciones
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&hide_border=true"/>
@@ -134,7 +134,7 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 
 ---
 
-# 🌐 Conecta Conmigo
+# Conecta Conmigo
 
 <p align="center">
 
@@ -170,10 +170,10 @@ Herramienta de control de versiones utilizada para administrar cambios en proyec
 
 # ✨ Objetivos
 
-🌸 Mejorar mis habilidades en desarrollo web  
-💻 Crear proyectos modernos y funcionales  
-🚀 Aprender nuevas tecnologías constantemente  
-💖 Crecer profesionalmente en el mundo del software  
+ Mejorar mis habilidades en desarrollo web  
+ Crear proyectos modernos y funcionales  
+ Aprender nuevas tecnologías constantemente  
+ Crecer profesionalmente en el mundo del software  
 
 ---
 
