@@ -113,18 +113,15 @@ Editor de código moderno utilizado para desarrollar proyectos de programación.
 Herramienta de control de versiones utilizada para administrar cambios en proyectos.
 
 ---
+## Estadísticas GitHub
 
-#  Estadísticas GitHub
+<div align="center">
 
-<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AslyGarcia&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslyGarcia&layout=compact&theme=radical&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
+</div>
 
 #  Racha de Contribuciones
 
