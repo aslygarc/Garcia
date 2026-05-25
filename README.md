@@ -1,11 +1,10 @@
-```html
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=✨+Asly+García+✨;💻+Desarrollo+de+Software;🌸+Frontend+%7C+Backend+%7C+Bases+de+Datos;🚀+Aprendiendo+Nuevas+Tecnologías" />
 
 <br><br>
 
-<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="500"/>
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="100"/>
 
 <br><br>
 
