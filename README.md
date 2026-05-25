@@ -16,7 +16,7 @@
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="120"/>
 </a>
 
-###  Perplexity
+###  Copilot
 Motor de búsqueda con inteligencia artificial utilizado para investigar y obtener información rápida.
 
 </td>
