@@ -5,6 +5,7 @@
 <br><br>
 
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="100"/>
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="100"/>
 
 <br><br>
 
