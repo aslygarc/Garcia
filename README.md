@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 🤖 Inteligencias Artificiales Favoritas
+#  Inteligencias Artificiales Favoritas
 
 <table align="center">
 
@@ -13,7 +13,7 @@
 
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="120"/>
 
-### 💖 ChatGPT
+### Copilot
 Asistente inteligente utilizado para programación, tareas, ideas creativas y aprendizaje.
 
 </td>
@@ -22,7 +22,7 @@ Asistente inteligente utilizado para programación, tareas, ideas creativas y ap
 
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
 
-### 🎨 IA Creativa
+### IA Creativa
 Herramienta enfocada en diseño, creatividad digital e inspiración visual moderna.
 
 </td>
@@ -31,7 +31,7 @@ Herramienta enfocada en diseño, creatividad digital e inspiración visual moder
 
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="120"/>
 
-### 🚀 IA Tecnológica
+###  IA Tecnológica
 Inteligencia artificial utilizada para automatización, tecnología y desarrollo moderno.
 
 </td>
