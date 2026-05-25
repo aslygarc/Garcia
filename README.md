@@ -27,7 +27,7 @@ Motor de búsqueda con inteligencia artificial utilizado para investigar y obten
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
 </a>
 
-###  Copilot
+###  Midjourney
 Asistente de inteligencia artificial enfocado en productividad, programación y automatización.
 
 </td>
