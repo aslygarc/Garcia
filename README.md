@@ -38,7 +38,7 @@ Asistente de inteligencia artificial enfocado en productividad, programación y 
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="120"/>
 </a>
 
-###  Midjourney
+###  Perplexity
 Herramienta de inteligencia artificial especializada en generación de arte e imágenes digitales.
 
 </td>
