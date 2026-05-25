@@ -12,34 +12,34 @@
 
 <td align="center">
 
-<a href="https://chat.openai.com/" target="_blank">
+<a href="https://www.perplexity.ai/" target="_blank">
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="120"/>
 </a>
 
-### Copilot
-Asistente inteligente utilizado para programación, tareas, ideas creativas y aprendizaje.
+###  Perplexity
+Motor de búsqueda con inteligencia artificial utilizado para investigar y obtener información rápida.
+
+</td>
+
+<td align="center">
+
+<a href="https://copilot.microsoft.com/" target="_blank">
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
+</a>
+
+###  Copilot
+Asistente de inteligencia artificial enfocado en productividad, programación y automatización.
 
 </td>
 
 <td align="center">
 
 <a href="https://www.midjourney.com/" target="_blank">
-<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
-</a>
-
-###  MidJourney
-Herramienta enfocada en diseño, creatividad digital e inspiración visual moderna.
-
-</td>
-
-<td align="center">
-
-<a href="https://gemini.google.com/" target="_blank">
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="120"/>
 </a>
 
-### IA Creativa
-Inteligencia artificial utilizada para automatización, tecnología y desarrollo moderno.
+###  Midjourney
+Herramienta de inteligencia artificial especializada en generación de arte e imágenes digitales.
 
 </td>
 
