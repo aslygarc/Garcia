@@ -4,9 +4,40 @@
 
 <br><br>
 
-<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="100"/>
-<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="100"/>
-<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="140"/>
+# 🤖 Inteligencias Artificiales Favoritas
+
+<table align="center">
+
+<tr>
+<td align="center">
+
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="120"/>
+
+### 💖 ChatGPT
+Asistente inteligente utilizado para programación, tareas, ideas creativas y aprendizaje.
+
+</td>
+
+<td align="center">
+
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
+
+### 🎨 IA Creativa
+Herramienta enfocada en diseño, creatividad digital e inspiración visual moderna.
+
+</td>
+
+<td align="center">
+
+<img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="120"/>
+
+### 🚀 IA Tecnológica
+Inteligencia artificial utilizada para automatización, tecnología y desarrollo moderno.
+
+</td>
+</tr>
+
+</table>
 
 <br><br>
 
