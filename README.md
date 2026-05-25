@@ -4,14 +4,17 @@
 
 <br><br>
 
-#  Inteligencias Artificiales Favoritas
+# Inteligencias Artificiales Favoritas
 
 <table align="center">
 
 <tr>
+
 <td align="center">
 
+<a href="https://chat.openai.com/" target="_blank">
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738697/hoslii_adlded.webp" width="120"/>
+</a>
 
 ### Copilot
 Asistente inteligente utilizado para programación, tareas, ideas creativas y aprendizaje.
@@ -20,21 +23,26 @@ Asistente inteligente utilizado para programación, tareas, ideas creativas y ap
 
 <td align="center">
 
+<a href="https://www.midjourney.com/" target="_blank">
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779738494/holi_dsrf7a.webp" width="120"/>
+</a>
 
-### IA Creativa
+###  MidJourney
 Herramienta enfocada en diseño, creatividad digital e inspiración visual moderna.
 
 </td>
 
 <td align="center">
 
+<a href="https://gemini.google.com/" target="_blank">
 <img src="https://res.cloudinary.com/dqvwvahe4/image/upload/q_auto/f_auto/v1779739464/OIP_1_ctqhhu.webp" width="120"/>
+</a>
 
-###  IA Tecnológica
+### IA Creativa
 Inteligencia artificial utilizada para automatización, tecnología y desarrollo moderno.
 
 </td>
+
 </tr>
 
 </table>
